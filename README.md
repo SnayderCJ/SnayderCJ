@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am studying Software Engineering. 🖱💻<br>Basic level of Js, HTML and CSS.<br>I don't have a job at the moment<br>I aspire to learn many languages and technologies in the future.<br>I'm not going to give up 🎈
+I am studying Software Engineering. 🖱💻<br>Medium level of Js, HTML and CSS.<br>I don't have a job at the moment<br>I aspire to learn many languages and technologies in the future.<br>I'm not going to give up 🎈
 
 
 ## 🌐 Socials:
