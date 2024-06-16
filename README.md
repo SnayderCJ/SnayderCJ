@@ -1,8 +1,10 @@
 <br clear="both">
 
+# 💻 Tech Stack:
 <p align="center">Greetings! I am a sports enthusiast and a technology passionate. As a programmer, I specialize in a variety of languages, including JavaScript, Python, HTML, CSS, and some web development technologies like Express, Bootstrap, and Node.js. Currently, I am dedicating my time to studying Software Engineering at the Universidad Estatal de Milagro, where I am expanding my knowledge and skills to become an even more competent developer.<br><br>At just 20 years old, I am a young man originally from Ecuador, a country that I deeply love. I am always eager to learn and grow both personally and professionally. The combination of my passion for sports and my dedication to programming reflects my active and curious nature. I am excited about what the future holds for me in the exciting world of technology, and I am committed to continuing to learn and improve in everything I do.</p>
 
-###
+
+# 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -48,7 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+
+## 🌐 Socials:
 
 <div align="left">
   <a href="https://www.youtube.com/@SnayderC" target="_blank">
@@ -65,7 +68,7 @@
   </a>
 </div>
 
-###
+# 📊 GitHub Stats:
 
 <br clear="both">
 
@@ -79,6 +82,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SnayderCJ/SnayderCJ/output/snake.svg" alt="Snake animation" />
-
-###
+[![](https://visitcount.itsvg.in/api?id=SnayderCJ&icon=0&color=0)](https://visitcount.itsvg.in)###
